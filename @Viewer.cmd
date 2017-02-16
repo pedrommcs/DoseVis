@@ -1,0 +1,1 @@
+"C:\Program Files\DeVIDE-RE\dre.cmd" devide --extra-module-paths "%CD%"
